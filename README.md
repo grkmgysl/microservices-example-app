@@ -12,7 +12,7 @@ In this application I used microservices architecture to create a basic REST api
 
 ### Project Architecture:
 
-![arch](./githubPictures/architecture.png "Project architecture")
+![arch](./githubPictures/architecture.PNG "Project architecture")
 
 ### Used Technologies:
 
