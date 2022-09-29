@@ -1,0 +1,10 @@
+com\grkmgysl\productservice\repository\ProductRepository.class
+com\grkmgysl\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\grkmgysl\productservice\controller\ProductController.class
+com\grkmgysl\productservice\service\ProductService.class
+com\grkmgysl\productservice\dto\ProductResponse.class
+com\grkmgysl\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\grkmgysl\productservice\model\Product$ProductBuilder.class
+com\grkmgysl\productservice\dto\ProductRequest.class
+com\grkmgysl\productservice\model\Product.class
+com\grkmgysl\productservice\ProductServiceApplication.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.grkmgysl.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.24 s - in com.grkmgysl.productservice.ProductServiceApplicationTests
